@@ -1,0 +1,7 @@
+main: me.gaagjescraft.network.team.skyblockplus.SkyBlockPlus
+author: GaagjesCraft Network Team (GCNT)
+depend:
+  - Vault
+description: Prison plugin
+version: 1.0.0
+name: SkyBlockPlus

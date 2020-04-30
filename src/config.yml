@@ -1,0 +1,8 @@
+messages:
+  item_sold: '&aYou sold a %item% for $%price%'
+
+items:
+  'LOG': # if you don't specify a block data, it will be 0
+    sell_price: 1
+  'LOG:1':
+    sell_price: 1.02
